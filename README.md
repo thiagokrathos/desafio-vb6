@@ -93,7 +93,7 @@ Neste link sugerimos uma bem legal 😍
 
 ## Cadastro de Clientes
 
- - RN1: Não permitir excluir um cliente que estejam referenciados em uma venda.
+ - RN1: Não permitir excluir um cliente que esteja referenciado em uma venda.
 
  - RN2: Não permitir gravar um cliente sem o valor de limite de crédito, ou limite 0.
 
