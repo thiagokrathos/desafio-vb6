@@ -87,7 +87,7 @@ Neste link sugerimos uma bem legal 😍
   
 ## Menu Principal
 
- - RN1: Deve-se apresentar no formulário, a data corrente de login e o nome do usuário logado, sugerimos no rdapé, conforme mockup da tela.
+ - RN1: Deve-se apresentar no formulário, a data corrente de login e o nome do usuário logado, sugerimos no rodapé, conforme mockup da tela.
 
 ## Cadastro de Clientes
 
@@ -97,7 +97,7 @@ Neste link sugerimos uma bem legal 😍
 
 ## Cadastro de Produtos
 
- - RN1: Não permitir gravar produtos sem o código,ou com código zerado.
+ - RN1: Não permitir gravar produtos sem o código, ou com código zerado.
 
  - RN2: Não permitir gravar produtos sem o preço, ou com preço zerado.
   
@@ -105,11 +105,15 @@ Neste link sugerimos uma bem legal 😍
 
  - RN1: Não permitir gravar pedido para clientes cujo o valor do limite, ultrapasse o do cadastro de cliente.
 
- - RN2: Ao gravar um pedido, abater o valor total do pedido, no limite de crédito do cliente utilizado.
+ - RN2: Ao gravar um pedido, deve-se abater o valor total do pedido, do limite de crédito do cliente.
 
  - RN3: Não permitir inserção de produtos com preço de venda zerados.
 
 Se dividirmos semânticamente as responsabilidades da nossa aplicação em entidades, considere separar as regras de negócio, da camada de visão.
+
+Caso não esteja familiarizado com o MVC, considere uma leitura 📘 no link para se embasar melhor.
+
+(https://www.devmedia.com.br/introducao-ao-padrao-mvc/29308)
 
 ### Requisitos desejáveis, não obrigatórios, mas que serão levado em consideração para critério de desempate  👏👏
  - Produza pelo menos dois diagramas UML da sua preferência sobre qualquer parte da aplicação. (Caso esteja perdido em qual 😂, sugerimos do de Caso de Uso e Diagrama de Sequência)
