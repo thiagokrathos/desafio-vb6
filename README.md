@@ -73,43 +73,52 @@ O projeto deve compreender uma interface gráfica para um simples sistema de ped
 
 ### Regras de Negócio
 
-- Login
+Leia com atenção 🤓, todas as regras a serem implementadas. Tente ter uma visão objetiva do desenvolvimento da aplicação, começando sempre pelas entidades que não possuem dependência composta. (A tela de Pedido de Venda depende de clientes e produtos, portanto, deve ser a ultima a ser implementada. 😉)
 
-RN1: Não deve permitir logar ususário que não estejam cadastrados no banco de dados.
+Para logar na aplicação, adicione manualmente o usuário no banco de dados, utilizando alguma ferramenta de gerenciamento de scripts de banco de dados. No link abaixo sugerimos uma bem legal 😍
+(https://www.heidisql.com/download.php)
+
+## Login
+
+ - RN1: Não deve permitir logar ususário que não estejam cadastrados no banco de dados.
   
-- Menu Principal
+## Menu Principal
 
- o RN: N/A.
+ - RN: N/A.
 
-- Cadastro de Clientes
+## Cadastro de Clientes
 
- o RN1: Não permitir excluir usuário que estejam referenciados em uma venda.
+ - RN1: Não permitir excluir usuário que estejam referenciados em uma venda.
 
- o RN2: Não permitir gravar usuário sem o valor de limite de crédito, ou limite 0.
+ - RN2: Não permitir gravar usuário sem o valor de limite de crédito, ou limite 0.
 
-- Cadastro de Produtos
+## Cadastro de Produtos
 
- o RN1: Não permitir gravar produtos sem o código,ou com código zerado.
+ - RN1: Não permitir gravar produtos sem o código,ou com código zerado.
 
- o RN2: Não permitir gravar produtos sem o preço, ou com preço zerado.
+ - RN2: Não permitir gravar produtos sem o preço, ou com preço zerado.
   
-- Cadastro de Pedido de Venda
+## Cadastro de Pedido de Venda
 
- o RN1: Não permitir gravar pedido para clientes cujo o valor do limite, ultrapasse o do cadastro de cliente.
+ - RN1: Não permitir gravar pedido para clientes cujo o valor do limite, ultrapasse o do cadastro de cliente.
 
- o RN2: Ao gravar um pedido, abater o valor total do pedido, no limite de crédito do cliente utilizado.
+ - RN2: Ao gravar um pedido, abater o valor total do pedido, no limite de crédito do cliente utilizado.
 
- o RN3: Não permitir inserção de produtos com preço de venda zerados.
+ - RN3: Não permitir inserção de produtos com preço de venda zerados.
 
 Se dividirmos semânticamente as responsabilidades da nossa aplicação em entidades, considere separar as regras de negócio, da camada de visão.
+
+### Requisitos desejáveis, não obrigatórios que serão levado em consideração para critério de desempate  👏👏
+ - Produza pelo menos dois diagramas UML da sua preferência sobre qualquer parte da aplicação. (Caso esteja perdido em qual 😂, sugerimos do de Caso de Uso e Diagrama de Sequência)
+ - Modelo de entidade-relacionamento do banco de dados.
 
 Bons estudos <3
 
 ## :calendar: Entrega
 
-Esse desafio deve ser entregue por email, na qual ele deve contar o link do seu repositório do Git Hub, com o projeto.
+Esse desafio deve ser entregue por email (respondendo o e-mail enviado pela linear), na qual ele deve contar o link do seu repositório do Git Hub, com o projeto.
 
-Não se esqueça de montar um arquivo README.MD incrível, nos explicando as tecnologias usadas, dependências do projeto e como subir a sua aplicação. 😉
+Não se esqueça de montar um arquivo README.MD incrível, nos explicando as tecnologias usadas, dependências do projeto e como subir a sua aplicação (script do banco sql por exemplo). 😉
 
 Caso precise de uma ajuda em como montar um README.MD nos moldes convencionais, dê uma olhada neste perfil.
 (https://github.com/thiagokrathos/go-restaurant-mobile)
