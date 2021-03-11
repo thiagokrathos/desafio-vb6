@@ -77,7 +77,8 @@ Leia com atenção 🤓, todas as regras a serem implementadas. Tente ter uma vi
 
 Para logar na aplicação, adicione manualmente o usuário no banco de dados, utilizando alguma ferramenta de gerenciamento de scripts SQL's. 
 
-No link abaixo sugerimos uma bem legal 😍
+Neste link sugerimos uma bem legal 😍
+
 (https://www.heidisql.com/download.php)
 
 ## Login
