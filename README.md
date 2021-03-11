@@ -26,6 +26,18 @@
 
 Nesse teste, você deve criar uma aplicação para atestar aquilo que discutido nas entrevistas!
 
+Utilize a linguagem de programação que julgue ter mais domínio, para produção do resultado final.
+
+As linguagens que serão melhores avaliadas pela Linear serão: 
+ - <img src="https://img.shields.io/badge/visualbasic6-informational?logo=VB"></img>
+ - <img src="https://img.shields.io/badge/vb.net-informational?logo=VB"></img>
+ - <img src="https://img.shields.io/badge/csharp-informational?logo=C#"></img>
+ - <img src="https://img.shields.io/badge/java-informational?logo=Java"></img>
+ - <img src="https://img.shields.io/badge/node.js-informational?logo=Node.JS"></img>
+
+O banco de dados a ser utilizado, precisa ser o MySQL 5.7.xxx. Você pode baixa-lo no link abaixo.
+(https://dev.mysql.com/downloads/windows/installer/5.7.html)
+
 Para avaliar as habilidades do(a) candidato(a) à vaga de Analista Desenvolvedor, será necessário que o mesmo implemente um projeto com um CRUD de pedidos de venda.
 
 O projeto deve compreender uma interface gráfica para um simples sistema de pedidos de venda contendo:
