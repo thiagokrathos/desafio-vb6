@@ -89,7 +89,7 @@ Neste link sugerimos uma bem legal 😍
   
 ## Menu Principal
 
- - RN1: Deve-se apresentar no formulário, a data corrente de login e o nome do usuário logado, sugerimos no rodapé, conforme mockup da tela.
+ - RN1: Deve-se apresentar no formulário, a data corrente de login e o nome do usuário logado. Sugerimos no rodapé, conforme mockup da tela.
 
 ## Cadastro de Clientes
 
