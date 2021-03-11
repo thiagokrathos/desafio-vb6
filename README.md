@@ -62,23 +62,32 @@ O projeto deve compreender uma interface gráfica para um simples sistema de ped
 ### Regras de Negócio
 
 - Login
-  RN1: Não deve permitir logar ususário que não estejam cadastrados no banco de dados.
+
+RN1: Não deve permitir logar ususário que não estejam cadastrados no banco de dados.
   
 - Menu Principal
-  RN: N/A.
+
+ o RN: N/A.
 
 - Cadastro de Clientes
-  RN1: Não permitir excluir usuário que estejam referenciados em uma venda.
-  RN2: Não permitir gravar usuário sem o valor de limite de crédito, ou limite 0.
+
+ o RN1: Não permitir excluir usuário que estejam referenciados em uma venda.
+
+ o RN2: Não permitir gravar usuário sem o valor de limite de crédito, ou limite 0.
 
 - Cadastro de Produtos
-  RN1: Não permitir gravar produtos sem o código,ou com código zerado.
-  RN2: Não permitir gravar produtos sem o preço, ou com preço zerado.
+
+ o RN1: Não permitir gravar produtos sem o código,ou com código zerado.
+
+ o RN2: Não permitir gravar produtos sem o preço, ou com preço zerado.
   
 - Cadastro de Pedido de Venda
-  RN1: Não permitir gravar pedido para clientes cujo o valor do limite, ultrapasse o do cadastro de cliente.
-  RN2: Ao gravar um pedido, abater o valor total do pedido, no limite de crédito do cliente utilizado.
-  RN3: Não permitir inserção de produtos com preço de venda zerados.
+
+ o RN1: Não permitir gravar pedido para clientes cujo o valor do limite, ultrapasse o do cadastro de cliente.
+
+ o RN2: Ao gravar um pedido, abater o valor total do pedido, no limite de crédito do cliente utilizado.
+
+ o RN3: Não permitir inserção de produtos com preço de venda zerados.
 
 Se dividirmos semânticamente as responsabilidades da nossa aplicação em entidades, considere separar as regras de negócio, da camada de visão.
 
