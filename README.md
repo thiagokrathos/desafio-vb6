@@ -123,9 +123,9 @@ Bons estudos <3
 
 ## :calendar: Entrega
 
-Esse desafio deve ser entregue por email (respondendo o e-mail enviado pela linear), na qual ele deve contar o link do seu repositório do Git Hub, com o projeto.
+Esse desafio deve ser entregue por email (respondendo o e-mail enviado pela linear), na qual ele deve conter o link do seu repositório do Git Hub, com o projeto.
 
-Não se esqueça de montar um arquivo README.MD incrível, nos explicando as tecnologias usadas, dependências do projeto e como subir a sua aplicação (script do banco sql por exemplo). 😉
+Não se esqueça de montar um arquivo README.MD incrível para apresentação do seu projeto, nos explicando as tecnologias usadas, dependências do projeto e como subir a sua aplicação (script do banco sql por exemplo). 😉
 
 Caso precise de uma ajuda em como montar um README.MD nos moldes convencionais, dê uma olhada neste perfil.
 (https://github.com/thiagokrathos/go-restaurant-mobile)
