@@ -123,6 +123,8 @@ Bons estudos <3
 
 ## :calendar: Entrega
 
+🥇 Após concluir a execução do teste, grave um pequeno video mostrando a aplicação em funcionamento e uma breve explicação do código 😁.
+
 Esse desafio deve ser entregue por email (respondendo o e-mail enviado pela linear), na qual ele deve conter o link do seu repositório do Git Hub, com o projeto.
 
 Não se esqueça de montar um arquivo README.MD incrível para apresentação do seu projeto, nos explicando as tecnologias usadas, dependências do projeto e como subir a sua aplicação (script do banco sql por exemplo). 😉
