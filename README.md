@@ -24,7 +24,7 @@
 
 ## :rocket: Sobre o desafio
 
-Nesse teste, você deve criar uma aplicação para atestar aquilo que discutido nas entrevistas!
+Nesse teste, você deve criar uma aplicação para atestar aquilo que foi discutido nas entrevistas!
 
 Utilize a linguagem de programação que julgue ter mais domínio, para produção do resultado final.
 
