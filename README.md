@@ -83,7 +83,7 @@ Neste link sugerimos uma bem legal 😍
 
 ## Login
 
- - RN1: Não deve permitir logar ususário que não estejam cadastrados no banco de dados.
+ - RN1: Não deve permitir logar com um ususário que não esteja cadastrado no banco de dados.
   
 ## Menu Principal
 
