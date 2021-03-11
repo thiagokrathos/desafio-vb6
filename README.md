@@ -123,7 +123,9 @@ Bons estudos <3
 
 ## :calendar: Entrega
 
-🥇 Após concluir a execução do teste, grave um pequeno video mostrando a aplicação em funcionamento e uma breve explicação do código 😁.
+🥇 Após concluir a execução do teste, grave um pequeno video mostrando a aplicação em funcionamento e uma breve explicação do código 😁. 
+
+Sinta-se a vontade para escolher qual plataforma deseja compartilhar o link do vídeo 📼. Sugerimos GoogleDrive ou OneDrive. 
 
 Esse desafio deve ser entregue por email (respondendo o e-mail enviado pela linear), na qual ele deve conter o link do seu repositório do Git Hub, com o projeto.
 
