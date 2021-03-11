@@ -117,7 +117,7 @@ Caso não esteja familiarizado com o MVC, considere uma leitura 📘 no link par
 
 ### Requisitos desejáveis, não obrigatórios, mas que serão levado em consideração para critério de desempate  👏👏
  - Produza pelo menos dois diagramas UML da sua preferência sobre qualquer parte da aplicação. (Caso esteja perdido em qual 😂, sugerimos do de Caso de Uso e Diagrama de Sequência)
- - Modelo de entidade-relacionamento do banco de dados.
+ - Produza o Modelo de entidade-relacionamento do banco de dados (MER).
 
 Bons estudos <3
 
