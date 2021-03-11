@@ -87,7 +87,7 @@ Neste link sugerimos uma bem legal 😍
   
 ## Menu Principal
 
- - RN: N/A.
+ - RN1: Deve-se apresentar no formulário, a data corrente de login e o nome do usuário logado, sugerimos no rdapé, conforme mockup da tela.
 
 ## Cadastro de Clientes
 
