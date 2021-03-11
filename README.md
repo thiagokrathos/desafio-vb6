@@ -111,7 +111,7 @@ Neste link sugerimos uma bem legal 😍
 
  - RN3: Não permitir inserção de produtos com preço de venda zerados.
 
-Se dividirmos semânticamente as responsabilidades da nossa aplicação em entidades, considere separar as regras de negócio, da camada de visão.
+Se dividirmos semanticamente as responsabilidades da nossa aplicação em entidades, considere separar as regras de negócio, da camada de visão.
 
 Caso não esteja familiarizado com o MVC, considere uma leitura 📘 no link para se embasar melhor.
 
