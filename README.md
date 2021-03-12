@@ -71,7 +71,7 @@ O projeto deve compreender uma interface gráfica para um simples sistema de ped
   <img src="./assets/pedido.png">
 </p>
 
-### Regras de Negócio
+## Regras de Negócio
 
 Leia com atenção todas as regras a serem implementadas  🤓. 
 
