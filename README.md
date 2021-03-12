@@ -28,12 +28,18 @@ Nesse teste, você deve criar uma aplicação para atestar aquilo que foi discut
 
 Utilize a linguagem de programação que julgue ter mais domínio, para produção do resultado final.
 
-As linguagens que serão melhores avaliadas pela Linear serão: 
+Porém, as linguagens que serão melhores avaliadas pela Linear serão: 
  - <img src="https://img.shields.io/badge/visualbasic6-informational?logo=VB"></img>
  - <img src="https://img.shields.io/badge/vb.net-informational?logo=Visual Basic"></img>
  - <img src="https://img.shields.io/badge/csharp-informational?logo=C#"></img>
  - <img src="https://img.shields.io/badge/java-informational?logo=Java"></img>
  - <img src="https://img.shields.io/badge/node.js-informational?logo=Node.JS"></img>
+ 
+## O que iremos avaliar
+ 
+Iremos observar conceitos como: 
+
+abstração, Clean Code, utilização de padrões de projeto, escalabilidade do software, domínio da linguagem, tratamento de erros / exceções, separação em camadas (MVC), dentre outro aspectos que tangem a um desenvolvimento de software.
 
 O banco de dados a ser utilizado, precisa ser o <img src="https://img.shields.io/badge/mysql@5.7.xx-informational?logo=Mysql"></img>. Você pode baixa-lo no link abaixo.
 (https://dev.mysql.com/downloads/windows/installer/5.7.html)
@@ -119,7 +125,8 @@ Caso não esteja familiarizado com o MVC, considere uma leitura 📘 no link par
 
 ### Requisitos desejáveis, não obrigatórios, mas que serão levado em consideração para critério de desempate  👏👏
  - Produza pelo menos dois diagramas UML de preferência sobre qualquer parte da aplicação. (Caso esteja perdido em qual 😂, sugerimos o diagrama de Caso de Uso e Diagrama de Sequência).
- - Produza o Modelo de entidade-relacionamento do banco de dados (MER).
+ - Produza o Modelo de entidade-relacionamento do banco de dados (DER).
+ - Produza testes automatizados da sua aplicação.
 
 Bons estudos <3
 
