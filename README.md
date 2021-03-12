@@ -65,7 +65,7 @@ O projeto deve compreender uma interface gráfica para um simples sistema de ped
   <img src="./assets/produto.png">
 </p>
 
- - CADASTRO DE PEDIDO DE VENDA.
+ - CADASTRO DE PEDIDO DE VENDA
 
 <p align="center">
   <img src="./assets/pedido.png">
