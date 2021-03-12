@@ -75,7 +75,7 @@ O projeto deve compreender uma interface gráfica para um simples sistema de ped
 
 Leia com atenção todas as regras a serem implementadas  🤓. 
 
-Tente ter uma visão objetiva do desenvolvimento da aplicação, começando sempre pelas entidades que não possuem dependência composta. (A tela de Pedido de Venda depende de clientes e produtos, portanto, deve ser a ultima a ser implementada. 😉)
+Tente ter uma visão objetiva do desenvolvimento da aplicação, começando sempre pelas entidades que não possuem dependência composta. (A tela de Pedido de Venda depende de clientes e produtos, portanto, deve ser a ultima a ser implementada. 😉).
 
 Para logar na aplicação, adicione manualmente o usuário no banco de dados, utilizando alguma ferramenta de gerenciamento de scripts SQL's. 
 
