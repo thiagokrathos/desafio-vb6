@@ -30,7 +30,7 @@ Utilize a linguagem de programação que julgue ter mais domínio, para produç�
 
 Porém, as linguagens que serão melhores avaliadas pela Linear serão: 
  - <img src="https://img.shields.io/badge/visualbasic6-informational?logo=VB"></img>
- - <img src="https://img.shields.io/badge/vb.net-informational?logo=Visual Basic"></img>
+ - <img src="https://img.shields.io/badge/vbnet-informational?logo=Basic"></img>
  - <img src="https://img.shields.io/badge/csharp-informational?logo=C#"></img>
  - <img src="https://img.shields.io/badge/java-informational?logo=Java"></img>
  - <img src="https://img.shields.io/badge/node.js-informational?logo=Node.JS"></img>
